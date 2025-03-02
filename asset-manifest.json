@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Booking-forntEnd/static/css/main.f7badfa8.css",
+    "main.js": "/Booking-forntEnd/static/js/main.68cc646d.js",
+    "static/js/453.c908287f.chunk.js": "/Booking-forntEnd/static/js/453.c908287f.chunk.js",
+    "index.html": "/Booking-forntEnd/index.html",
+    "main.f7badfa8.css.map": "/Booking-forntEnd/static/css/main.f7badfa8.css.map",
+    "main.68cc646d.js.map": "/Booking-forntEnd/static/js/main.68cc646d.js.map",
+    "453.c908287f.chunk.js.map": "/Booking-forntEnd/static/js/453.c908287f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7badfa8.css",
+    "static/js/main.68cc646d.js"
+  ]
+}
